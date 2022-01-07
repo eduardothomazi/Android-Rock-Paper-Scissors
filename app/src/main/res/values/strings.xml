@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pedra Papel Tesoura</string>
+    <string name="stone">Pedra</string>
+    <string name="paper">Papel</string>
+    <string name="scissors">Tesoura</string>
+</resources>
